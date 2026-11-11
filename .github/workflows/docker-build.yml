@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: hrithik49/bankingapp:latest
+          tags: hrithik49/bankingapp:v3
